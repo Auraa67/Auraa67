@@ -1,17 +1,19 @@
 
-<!--
-**Auraa67/Auraa67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:000000&height=200&section=header&fontColor=FF00FF&fontSize=45&animation=twinkling"/>
 
-Here are some ideas to get you started:
+  <!-- TYPING -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Developer;Engage+in+Excessive+Analysis;Embracing+New+Challenges"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- FOOTER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6A00FF&height=200&section=footer"/>
+</p>
 
-![snake gif](https://github.com/Auraa67/Auraa67/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Auraa67&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Auraa67/Auraa67/blob/output/github-snake-dark.svg" />
+</p>
